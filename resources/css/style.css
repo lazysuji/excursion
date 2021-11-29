@@ -25,3 +25,8 @@ p {
     font-size: 21px;
     color: grey;
 }
+
+h6 {
+    color: antiquewhite;
+    text-align: right;
+}
